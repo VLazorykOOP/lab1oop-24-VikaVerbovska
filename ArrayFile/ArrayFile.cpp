@@ -78,7 +78,7 @@ int main()
     int task;
     std::cout << "Zadano odnovimirniy masiv A rozmiron B.Znayti sered vsih videmnix max element masivu ta yogo index" << endl;
     std::cout << endl;
-    std::cout << "Second task: Find the maximum value among the negative elements located to the first element, smaller than the given number X." << endl;
+    std::cout << "Znaity min znachennya sered elementiv, mensshe zadanogo chisla B, i roztashovanix do pershogo elementa, bilshogo zadanogo chisla A1" << endl;
     std::cout << endl;
 
     //Вибір завдання
